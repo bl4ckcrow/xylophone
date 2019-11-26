@@ -1,4 +1,4 @@
-Basic Xylophone created with Flutter
+Basic Xylophone created with Flutter, part of the Angela's Yu course
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
